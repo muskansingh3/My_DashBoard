@@ -109,3 +109,6 @@ document.addEventListener('DOMContentLoaded', () => {
     setData(day);  
     document.querySelector('.timetable div h2').innerHTML = "Today's Timetable";  // Set heading on load
 });
+
+// whole app complted 
+

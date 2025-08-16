@@ -1,3 +1,4 @@
+// this is JS file
 const Sunday =[
     {   
         time: 'Sunday',
